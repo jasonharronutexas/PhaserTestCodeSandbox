@@ -1,2 +1,0 @@
-# PhaserTestCodeSandbox
-Created with CodeSandbox
